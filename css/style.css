@@ -1,0 +1,18 @@
+.jumbotron {
+	height: 500px;
+	width: 520px;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.but {
+	width: 240px;
+	margin-left: calc(50% - 120px);
+}
+.but a {
+	width: 114px;
+}
+.download {
+	width: auto;
+	float: right;
+}
